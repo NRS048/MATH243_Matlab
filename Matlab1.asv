@@ -1,0 +1,21 @@
+%% 1 Setup
+
+format short
+
+A = [8 -12 -12 7; -2 4 7 11; 2 -1 6 13]
+
+% 1a
+
+Arrref(A)
+
+% 1b
+
+
+
+% 1c
+
+format rat
+
+rref(A)
+
+% 1d
